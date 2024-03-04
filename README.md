@@ -25,7 +25,7 @@ El robot mindstorms EV3 es un robot hecho por la empresa lego el caul es compati
 
 
 ## 3. Estado actual del robot y sistema de control.
-El robot actualmente se encuantra en buen estado sin maltratos significativos en sus piezas, adicionalmente se encuntra con su conjunto de piezas completo [es-ev3re-elementsurvey.pdf](https://github.com/JSDaleman/Robotica-movil-Lab1/files/14476164/es-ev3re-elementsurvey.pdf) adicional mente posee un senor infrarrojo adicional al conjunto de piezas original cuyo lego ID es 6009811. su controlador se encuantra en buen estado con conectivada a PC, bluethoot y wifi funcionales 
+El robot actualmente se encuantra en buen estado sin maltratos significativos en sus piezas, adicionalmente se encuntra con su conjunto de piezas completo [es-ev3re-elementsurvey.pdf](https://github.com/JSDaleman/Robotica-movil-Lab1/files/14476164/es-ev3re-elementsurvey.pdf) adicional mente posee un senor infrarrojo adicional al conjunto de piezas original cuyo lego ID es 6009811. su controlador se encuantra en buen estado con conectivada a PC, bluethoot y wifi funcionale.
 
 
 ## 6. Sensores del robot: Identificar los sensores incorporados en los robots y explicar su funcionamiento. Que compatibildiad tienes con otros sensores.
