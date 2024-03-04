@@ -11,8 +11,13 @@ Funciona utilizando una combinación de fotorreceptores que son sensibles a dife
 ### Girosensor: 
 Este sensor utiliza un componente llamado giroscopio para detectar el movimiento de rotación en un eje. Un giroscopio consiste en un rotor que gira libremente dentro de un marco, y cuando el marco gira, el rotor tiende a mantener su orientación original en el espacio. La velocidad a la que el rotor tiende a mantener su orientación se traduce en una señal eléctrica proporcional a la velocidad de rotación, que puede ser interpretada por el microcontrolador del robot. Además, el ángulo de rotación total se calcula integrando la velocidad de rotación en el tiempo.
 
+
+
+
 ### Sensor táctil: 
 Este sensor funciona mediante la detección de cambios en la resistencia eléctrica cuando se presiona el botón rojo del sensor. Cuando se presiona el botón, se produce un contacto eléctrico que permite que la corriente fluya a través del sensor, lo que se traduce en una señal eléctrica que indica que el botón ha sido presionado. Cuando se suelta el botón, el contacto eléctrico se interrumpe y la corriente deja de fluir, lo que también se detecta como una señal eléctrica por el microcontrolador del robot.
+
+
 
 ### Sensor ultrasónico: 
 Este sensor emite pulsos de sonido de alta frecuencia y luego mide el tiempo que tarda cada pulso en reflejarse de vuelta desde un objeto cercano. Utiliza la velocidad del sonido en el aire para calcular la distancia al objeto según la fórmula distancia = velocidad x tiempo. Esta información se convierte en una señal eléctrica que indica la distancia al objeto, que puede ser interpretada por el microcontrolador del robot.
@@ -45,14 +50,36 @@ Este sensor puede detectar el color o la intensidad de la luz que ingresa por su
 ### Girosensor: 
 Detecta el movimiento de rotación en un eje simple y puede medir la razón de rotación en grados por segundo, así como el ángulo de rotación total en grados. Es útil para detectar el movimiento de partes del robot o si el robot se ha caído.
 
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/c8bd9834-1bf3-4b86-8f11-918e0435142c)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/6036c926-a010-414d-9345-5c2396cfff70)
+
 ### Sensor táctil: 
 Puede detectar cuando se presiona o se lanza el botón rojo del sensor. Puede ser programado para actuar según tres condiciones: presionado, lanzado o en contacto.
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/20f25503-82f5-4d34-aed5-60b1a9abab76)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/f98a56e2-1bbf-47a1-b8ba-ecbd62c46be2)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/a1f68e9f-6eb1-494d-b7a0-e127c161f76e)
 
 ### Sensor ultrasónico: 
 Mide la distancia a un objeto que se encuentra frente a él mediante el envío y la recepción de ondas de sonido de alta frecuencia. Puede ser utilizado para detectar objetos y medir distancias.
 
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/62fc483a-122d-42eb-8ffa-88db28e37def)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/99d50214-cecf-4a2a-b67a-d370b54ed58b)
+
+
 ### Sensor infrarrojo y Baliza infrarroja remota: 
 Detecta luz infrarroja reflejada por objetos y puede también detectar señales de luz infrarroja enviadas por la Baliza infrarroja remota. Tiene tres modos de funcionamiento: Modo de proximidad, Modo de baliza y Modo remoto.
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/ce09fd32-bb8e-41f6-a09a-ab5711d6bf34)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/f2f968af-4c06-406b-be54-22706728012a)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/1d38e38b-8aeb-4f66-8172-048d1795f158)
+
 
 ## 8. Simulación en CoppeliaSim del robot EV3
 Utilizado el software CoppeliaSim, se crean la simulación del robot EV3, primero se determine las medidas del robot para hacer lo más realista la simulación.
