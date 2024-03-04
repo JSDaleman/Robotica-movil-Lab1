@@ -42,6 +42,26 @@ El robot actualmente se encuantra en buen estado sin maltratos significativos en
 * C/C++: Es posible programar robots EV3 en C/C++ utilizando la API EV3-C.
 * MATLAB: Se puede usar MATLAB para programar robots EV3 mediante la API EV3-MATLAB.
 
+## 5. Herramientas de desarrollo propias
+
+Para programar un EV3, actualmente los mas populares son:
+
+**LEGO® MINDSTORMS® EV3 Home Edition (LabVIEW)
+
+Enfoque: Basado en bloques de funciones que representan operaciones y comandos específicos.
+
+Estructura: Los bloques se conectan mediante cables para representar el flujo de datos y la lógica del programa.
+
+
+**EV3 Classroom App v. 1.5.3:
+
+Enfoque: Basado en Scratch, un software, un entorno y un lenguaje de programación visual. A través de su interfaz en línea o sin conexión, permite a los usuarios crear un algoritmo ensamblando bloques para crear una simulación o una historia interactiva.
+
+Estructura: Los bloques se ensamblan como piezas de un rompecabezas para crear secuencias de comandos.
+
+
+
+
 
 
 ## 6. Sensores del robot: Identificar los sensores incorporados en los robots y explicar su funcionamiento. Que compatibildiad tienes con otros sensores.
