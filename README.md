@@ -32,27 +32,16 @@ El EV3 es compatible con los sensores y motores de la versión NXT, ya que utili
 
 ## 8. Simulación en CoppeliaSim del robot EV3
 Utilizado el software CoppeliaSim, se crean la simulación del robot EV3, primero se determine las medidas del robot para hacer lo más realista la simulación.
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Medidas.jpg">
- <source media="(prefers-color-scheme: light)" srcset="Medidas.jpg">
- <img alt="Medidas del robot EV3" src="Medidas.jpg">
-</picture>
+
+![Medidas](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/d26a90b7-827b-404d-a93e-35b39a9394ea)
 
 Se crean la estructura general del robot utilizando un cubo, dos cilindros conectados con unión de revolución y una esfera conectada a un sensor de fuerza, como se muestra en la siguiente imagen:
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Estructura.png">
- <source media="(prefers-color-scheme: light)" srcset="Estructura.png">
- <img alt="Medidas del robot EV3" src="Estructura.png">
-</picture>
+![Estructura](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/f6b937bd-442c-4cb4-9177-64cc825a8a77)
 
 A continuacion se ve el resultado de la simulación:
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="Simulacion.png">
- <source media="(prefers-color-scheme: light)" srcset="Simulacion.png">
- <img alt="Simulación del robot EV3 CoppeliaSim" src="Simulacion.png">
-</picture>
+![Simulacion](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/7ed58f70-b1bd-4fe7-83f3-a5a6882d12fe)
 
 Funcionamiento de la simulación:
 
