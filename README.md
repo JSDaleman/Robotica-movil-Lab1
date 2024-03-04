@@ -22,3 +22,7 @@ A continuacion se ve el resultado de la simulación:
  <source media="(prefers-color-scheme: light)" srcset="Simulacion.png">
  <img alt="Simulación del robot EV3 CoppeliaSim" src="Simulacion.png">
 </picture>
+
+Funcionamiento de la simulación:
+<video width="630" height="300" src="Simu.mp4"></video>
+
