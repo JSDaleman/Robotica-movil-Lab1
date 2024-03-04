@@ -74,8 +74,8 @@ Para programar un EV3, actualmente los mas populares son:
 
 *Ejemplo:*
 
-![prom1](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/fb79ea86-da05-47c1-9cb5-7270cd996c53)  
-https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/PrimerrMovimiento.lmsp
+![prom2](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/10ed6e31-daeb-4ece-ac56-7d3281a2e42d)  
+https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/Prueba.ev3
 
 **EV3 Classroom App v. 1.5.3:**
 
@@ -106,8 +106,8 @@ https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/PrimerrMovimi
 
 *Ejemplo:*
 
-![prom2](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/10ed6e31-daeb-4ece-ac56-7d3281a2e42d)  
-https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/Prueba.ev3
+![prom1](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/fb79ea86-da05-47c1-9cb5-7270cd996c53)  
+https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/PrimerrMovimiento.lmsp
 
 
 ## 6. Sensores del robot: Identificar los sensores incorporados en los robots y explicar su funcionamiento. Que compatibildiad tienes con otros sensores.
