@@ -134,6 +134,7 @@ Utilizando  LEGO® MINDSTORMS® EV3, se crea un programa donde al iniciar el rob
 La estructura del programa se muestra en la siguiente imagen utilizando el lenguaje de programación Scratch:
 
 ![prom1](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/fb79ea86-da05-47c1-9cb5-7270cd996c53)
+https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/PrimerrMovimiento.lmsp
 
 Se muestra el funcionamiento del programa cargado en el robot:
 
@@ -144,6 +145,8 @@ https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/7ac74b6c-7c99-4
 Se crea un segundo programa, esta vez en Python y diagramas de bloques, donde el robot realizara un segimiento a las paredes a su lado derecho en su recorrido, se muestra la estructura del programa en la siguiente imagen:
 
 ![prom2](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/10ed6e31-daeb-4ece-ac56-7d3281a2e42d)
+https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/Prueba.ev3
+
 
 y el video del funcionamiento del programa cargado en el robot:
 
