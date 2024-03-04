@@ -15,7 +15,7 @@ Se crean la estructura general del robot utilizando un cubo, dos cilindros conec
  <img alt="Medidas del robot EV3" src="Estructura.png">
 </picture>
 
-
+A continuacion se ve el resultado de la simulación:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Simulacion.png">
