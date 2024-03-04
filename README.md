@@ -141,7 +141,7 @@ Se muestra el funcionamiento del programa cargado en el robot:
 https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/7ac74b6c-7c99-497d-bf72-70879847625e
 
 
-Se crea un segundo programa, esta vez en Python y diagramas de bloques, donde el robot realizara un movimiento de zigzag en su recorrido, se muestra la estructura del programa en la siguiente imagen:
+Se crea un segundo programa, esta vez en Python y diagramas de bloques, donde el robot realizara un segimiento a las paredes a su lado derecho en su recorrido, se muestra la estructura del programa en la siguiente imagen:
 
 ![prom2](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/10ed6e31-daeb-4ece-ac56-7d3281a2e42d)
 
