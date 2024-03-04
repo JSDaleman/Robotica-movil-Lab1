@@ -30,6 +30,21 @@ El EV3 es compatible con los sensores y motores de la versión NXT, ya que utili
 
 ## 7.  Práctica de identificación y uso de los sensores integrados en los robots, explicando cómo interactúan con el entorno.
 
+### Sensor de color: 
+Este sensor puede detectar el color o la intensidad de la luz que ingresa por su ventana. Tiene tres modos de funcionamiento: Modo color, Modo intensidad de la luz reflejada y Modo intensidad de la luz ambiental. En Modo color, reconoce siete colores diferentes y puede ser utilizado para clasificar objetos por color. En Modo intensidad de la luz reflejada, mide la intensidad de la luz reflejada desde una fuente, lo que permite detectar líneas o códigos de color. En Modo intensidad de la luz ambiental, mide la luz que ingresa desde el entorno. La tasa de muestreo del sensor es de 1 kHz.
+
+### Girosensor: 
+Detecta el movimiento de rotación en un eje simple y puede medir la razón de rotación en grados por segundo, así como el ángulo de rotación total en grados. Es útil para detectar el movimiento de partes del robot o si el robot se ha caído.
+
+### Sensor táctil: 
+Puede detectar cuando se presiona o se lanza el botón rojo del sensor. Puede ser programado para actuar según tres condiciones: presionado, lanzado o en contacto.
+
+### Sensor ultrasónico: 
+Mide la distancia a un objeto que se encuentra frente a él mediante el envío y la recepción de ondas de sonido de alta frecuencia. Puede ser utilizado para detectar objetos y medir distancias.
+
+### Sensor infrarrojo y Baliza infrarroja remota: 
+Detecta luz infrarroja reflejada por objetos y puede también detectar señales de luz infrarroja enviadas por la Baliza infrarroja remota. Tiene tres modos de funcionamiento: Modo de proximidad, Modo de baliza y Modo remoto.
+
 ## 8. Simulación en CoppeliaSim del robot EV3
 Utilizado el software CoppeliaSim, se crean la simulación del robot EV3, primero se determine las medidas del robot para hacer lo más realista la simulación.
 
