@@ -18,6 +18,8 @@ Es un robot el cual es capaz de viajar bajo su propio control.
 * Interface humano maquina (HMI): Interfaz que permite la interaccion entre la persona y el sistema de control del robot.  
 * Comunicaciones: Sistemas que permiten la adquición y envio de señales para la interacción de las partes del robot.  
 
+## 2. Presentación del mindstorms EV3, incluyendo sus características físicas y capacidades.
+El robot mindstorms EV3 es un robot hecho por la empresa lego el caul es compatible con las piezas de lego technic para la contrucción de armaduras mecanicas o mecanimos, el bloque EV3 que es el centro de control y central electrica, diversidad de sensores (Para ver más detalladamente ver el punto 6), motores de tamaño grande le permite programar acciones robóticas precisas y potentes y motores de tamaño mediano mantiene la precisión, mientras cambia algo de potencia por un tamaño compacto y una respuesta más rápida, sistema de comunicaciones por cable mini USB para conecciones con un PC, comunicación bluethoot y wifi, puertos USB para ser usado con otros bloques EV3 y microSD para expandir la memoria del bloque de control. Es un sistema muy versatil que permita atravez de la creatividad del uso de los bloques de lego la creación de diferentes sistemas roboticos con las limitantes mecanicas que estos bloques poseen. Asimismo el bloque solo puede manejar de forma simultanea cuatro motores y cuatro sensores.
 
 ## 6. Sensores del robot: Identificar los sensores incorporados en los robots y explicar su funcionamiento. Que compatibildiad tienes con otros sensores.
 ### Sensor de color: 
