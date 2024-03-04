@@ -30,17 +30,17 @@ El robot actualmente se encuantra en buen estado sin maltratos significativos en
 ## 4. APIs y lenguajes de programación para robots EV3 de LEGO
 **4.1 APIs disponibles:**
 
-* API EV3: Es la API oficial de LEGO para programar robots EV3. Proporciona acceso a todas las funcionalidades del robot, como el control de motores, sensores, sonidos y pantalla.
+* API EV3: Esta es la API que nos facilita LEGO de manera oficial para programar robots EV3. Proporciona acceso a todas las funcionalidades del robot, como el control de motores, sensores, sonidos y pantalla.
 * API LabVIEW: Permite programar robots EV3 utilizando el lenguaje de programación gráfico LabVIEW.
-* API RobotC: Proporciona una interfaz de programación similar a C para controlar robots EV3.
-* API NXT-G: Permite programar robots EV3 utilizando el lenguaje de programación NXT-G, diseñado para principiantes.
+* API RobotC: Brinda una interfaz para programar muy similar a C para controlar robots EV3.
+* API NXT-G: Permite programar robots EV3 empleando un lenguaje de programación llamado NXT-G, mas orientado para principiantes.
 
 **4.2 Lenguajes de programación compatibles:**
 
-* Python: Se puede usar Python para programar robots EV3 mediante la API EV3-Python.
-* Java: La API EV3-Java permite programar robots EV3 utilizando el lenguaje de programación Java.
-* C/C++: Es posible programar robots EV3 en C/C++ utilizando la API EV3-C.
-* MATLAB: Se puede usar MATLAB para programar robots EV3 mediante la API EV3-MATLAB.
+* Python: Se puede implementar Python para programar robots EV3 con ayuda de la API EV3-Python.
+* Java: La API EV3-Java permite programar robots EV3 utilizando lenguaje Java.
+* C/C++: Utilizando la API EV3-C, es posible programar robots EV3 en C/C++.
+* MATLAB: Se puede hacer uso de MATLAB para programar robots EV3 mediante la API EV3-MATLAB.
 
 ## 5. Herramientas de desarrollo propias
 
@@ -48,9 +48,9 @@ Para programar un EV3, actualmente los mas populares son:
 
 **LEGO® MINDSTORMS® EV3 Home Edition (LabVIEW)**
 
-*Enfoque:* Basado en bloques de funciones que representan operaciones y comandos específicos.
+*Enfoque:* Basado en bloques de funciones que representan diferentes operaciones y comandos específicos, incluso personificables.
 
-*Estructura:* Los bloques se conectan mediante cables para representar el flujo de datos y la lógica del programa.
+*Estructura:* Los bloques se interconectan unos a otros mediante cables para representar el flujo de datos y la lógica que lleva el programa.
 
 *Funcionamiento:*
 
@@ -61,7 +61,7 @@ Para programar un EV3, actualmente los mas populares son:
 
 *Utilidad:*
 
-* Control preciso: Permite un control preciso del robot y de sus componentes.
+* Control preciso: Permite un control preciso del robot y de sus componentes gracias a su programacion tan descriptiva.
 * Programas complejos: Permite crear programas complejos y personalizados para una amplia gama de aplicaciones.
 * Flexibilidad: Ofrece mayor flexibilidad para adaptar el programa a las necesidades específicas del proyecto.
 
@@ -79,9 +79,9 @@ https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/Prueba.ev3
 
 **EV3 Classroom App v. 1.5.3:**
 
-*Enfoque:* Basado en Scratch, un software, un entorno y un lenguaje de programación visual. A través de su interfaz en línea o sin conexión, permite a los usuarios crear un algoritmo ensamblando bloques para crear una simulación o una historia interactiva.
+*Enfoque:* Basado en Scratch, un software/entorno/lenguaje de programación, visual. A través de su interfaz, le permite a los usuarios crear un algoritmo ensamblando bloques para crear una simulación o una historia interactiva en la que los elementos y la señales de estos se retroalimentan entre si.
 
-*Estructura:* Los bloques se ensamblan como piezas de un rompecabezas para crear secuencias de comandos.
+*Estructura:* Los bloques se ensamblan como piezas de un rompecabezas para crear secuencias de comandos, siguiendo una logica visual en la que se evidencian los ciclos, las condiciones, diferenciando por formas y colores los diferentes tipos de bloques con los que cuenta.
 
 *Funcionamiento:*
 
