@@ -24,5 +24,8 @@ A continuacion se ve el resultado de la simulación:
 </picture>
 
 Funcionamiento de la simulación:
-<video width="630" height="300" src="Simu.mp4"></video>
+
+https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/989df357-6d5c-4fc5-9b71-7a0bb20031db
+
+
 
