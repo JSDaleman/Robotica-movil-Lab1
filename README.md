@@ -1,4 +1,24 @@
 # Laboratorio 1
+Juan Sebastian Daleman
+
+## 1. ¿Que es un robot móvil?.Definir qué es un robot y cuáles son sus principales características.
+Según la norma ISO 8373:2021 se difine a un robot como:
+**3.1 Robot**
+Mecanismo actuado programable con un grado de autonomia para realizar locomoción, manipulación o posicion.
+*Nota 1*: Un robot incluye el sistema de control.
+*Nota 2*: Ejemplos de estructuras mecanicas de robots son manipuladores, plataformas moviles y robots vestibles.
+**4.15 Robot móvil**
+Es un robot el cual es capaz de viajar bajo su propio control
+*Nota 1*: Un robot móvil puede ser una plataforma móvil con o sin manipuladores.
+*Nota 2*: Adicionalmete a una operación autonoma, un robot móvil puede tener medios para ser controlado remotamente.
+
+**Partes de un robot**
+* Mecanismo: Parte mecanica que permite el movimiento del robot.
+* Controlador o sistema de control: Conjunto componentes de hardware y software implementado un control logico y de energia, y otras funciones las cuales permiten motoreo y control del comportamiento de un robot y sus intereacciones y comunicación con otros objetos y humanos en el entorno.
+* Interface humano maquina (HMI): Interfaz que permite la interaccion entre la persona y el sistema de control del robot.
+* Comunicaciones: Sistemas que permiten la adquición y envio de señales para la interacción de las partes del robot.
+
+
 ## 6. Sensores del robot: Identificar los sensores incorporados en los robots y explicar su funcionamiento. Que compatibildiad tienes con otros sensores.
 ### Sensor de color: 
 Funciona utilizando una combinación de fotorreceptores que son sensibles a diferentes longitudes de onda de la luz. Cuando la luz entra en el sensor a través de su ventana, los fotorreceptores detectan la intensidad de la luz en diferentes rangos de longitud de onda, lo que permite al sensor determinar el color del objeto que está siendo observado. Además, en el modo de intensidad de la luz reflejada, el sensor mide la cantidad de luz reflejada desde una fuente, mientras que en el modo de intensidad de la luz ambiental, mide la cantidad de luz que ingresa desde el entorno. Esto se logra mediante el uso de circuitos electrónicos que convierten la luz en señales eléctricas que pueden ser interpretadas por el microcontrolador del robot.
