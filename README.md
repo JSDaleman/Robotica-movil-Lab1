@@ -125,5 +125,34 @@ Funcionamiento de la simulación:
 
 https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/989df357-6d5c-4fc5-9b71-7a0bb20031db
 
+## 9. Programa de simple movimiento
 
+Utilizando  LEGO® MINDSTORMS® EV3, se crea un programa donde al iniciar el robot mostrara en su pantalla ojos enojados, después avanzara hacia el frente hasta que el sensor de contacto sea presionado por algún obstáculo, cuando esto se cumpla el robot emitirá un beep por 1 segundo, después avanzará hacia atrás durante 1 segundo y girará su rueda B en el sentido de las manecillas del reloj por 0.5 segundos, y continuará hacia adelante hasta que se vuelva cumplir la condición.
+
+La estructura del programa se muestra en la siguiente imagen utilizando el lenguaje de programación Scratch
+
+![prom1](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/fb79ea86-da05-47c1-9cb5-7270cd996c53)
+
+Se muestra el funcionamiento del programa en el robot:
+
+
+https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/7ac74b6c-7c99-497d-bf72-70879847625e
+
+
+Se crea un segundo programa, esta vez en Python y diagramas de bloques, donde el robot realizara un movimiento de zigzag en su recorrido, se muestra la estructura del programa en la siguiente imagen:
+
+![prom2](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/10ed6e31-daeb-4ece-ac56-7d3281a2e42d)
+
+y el video del funcionamiento:
+
+
+https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/6359e798-f963-488b-8a3a-c7fdaef0f26e
+
+
+
+## 10. Reflexión y discusión
+
+La utilización del robot EV3 es fácil e intuitiva utilizando las herramientas propias y el lenguaje de programación Scratch, para la programación en diagrama de bloques y Python, ya se necesita tener cierto conociendo sobre todo en Python, la conexión de los sensores al robot es fácil  y permite modifica su diseño estructural para adaptarse a las necesidades en su funcionamiento.
+
+Las posibles mejoras que se plantean es la de utilizar otras plataformas o lenguajes para la programación del robot, permitiendo así que sea más atractivo y utilizado por diferentes personas independiente de su nivel de conocimiento en el área, también permitiendo expandir usos a áreas más técnicas o de mayor complejidad.
 
