@@ -3,6 +3,8 @@ Juan Sebastian Daleman
 
 Juan David Chica Garcia
 
+Luis Alejandro Duran Espitia
+
 ## 1. ¿Que es un robot móvil?.Definir qué es un robot y cuáles son sus principales características.  
 Según la norma ISO 8373:2021 se difine a un robot como:  
 **3.1 Robot**  
