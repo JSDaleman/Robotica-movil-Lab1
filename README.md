@@ -28,6 +28,8 @@ Estos sensores funcionan detectando la luz infrarroja reflejada por objetos sól
 
 El EV3 es compatible con los sensores y motores de la versión NXT, ya que utilizan los mismos cables conectores (RJ12) y el software EV3 los reconoce. Sin embargo, los sensores del EV3 no funcionan en el ladrillo NXT, solo los motores. En foros se habla del uso de sensores cumunmente usados con diferentes tarjetas de desarrollo como arduino, pero se requiere de un enlace I2C entre la tarjeta de desarrollo y el EV3.
 
+## 7.  Práctica de identificación y uso de los sensores integrados en los robots, explicando cómo interactúan con el entorno.
+
 ## 8. Simulación en CoppeliaSim del robot EV3
 Utilizado el software CoppeliaSim, se crean la simulación del robot EV3, primero se determine las medidas del robot para hacer lo más realista la simulación.
 <picture>
