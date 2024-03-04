@@ -33,6 +33,15 @@ El EV3 es compatible con los sensores y motores de la versión NXT, ya que utili
 ### Sensor de color: 
 Este sensor puede detectar el color o la intensidad de la luz que ingresa por su ventana. Tiene tres modos de funcionamiento: Modo color, Modo intensidad de la luz reflejada y Modo intensidad de la luz ambiental. En Modo color, reconoce siete colores diferentes y puede ser utilizado para clasificar objetos por color. En Modo intensidad de la luz reflejada, mide la intensidad de la luz reflejada desde una fuente, lo que permite detectar líneas o códigos de color. En Modo intensidad de la luz ambiental, mide la luz que ingresa desde el entorno. La tasa de muestreo del sensor es de 1 kHz.
 
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/53aaf8ce-a5f8-446c-92c1-a03229c53ac6)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/ba5d5cae-ccc1-4e55-ab4f-f30cd078e4e1)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/aa4b997b-556b-475c-8e57-f739506115f0)
+
+![image](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/125931563/b526172e-ef57-469a-9d71-71839c15cb83)
+
+
 ### Girosensor: 
 Detecta el movimiento de rotación en un eje simple y puede medir la razón de rotación en grados por segundo, así como el ángulo de rotación total en grados. Es útil para detectar el movimiento de partes del robot o si el robot se ha caído.
 
