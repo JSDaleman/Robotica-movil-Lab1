@@ -1,6 +1,7 @@
 # Laboratorio 1
 ## 8. Simulación en CoppeliaSim del robot EV3
-Utilizado el software CoppeliaSim, se crean la simulaciondel robot EV3, primero se determine las medidas del robot para hacer lo más realista la simulación.
+Utilizado el software CoppeliaSim, se crean la simulación del robot EV3, primero se determine las medidas del robot para hacer lo más realista la simulación.
+
 
 
 <picture>
