@@ -28,14 +28,14 @@ El robot mindstorms EV3 es un robot hecho por la empresa lego el caul es compati
 El robot actualmente se encuantra en buen estado sin maltratos significativos en sus piezas, adicionalmente se encuntra con su conjunto de piezas completo [es-ev3re-elementsurvey.pdf](https://github.com/JSDaleman/Robotica-movil-Lab1/files/14476164/es-ev3re-elementsurvey.pdf) adicional mente posee un senor infrarrojo adicional al conjunto de piezas original cuyo lego ID es 6009811. su controlador se encuantra en buen estado con conectivada a PC, bluethoot y wifi funcionale.
 
 ## 4. APIs y lenguajes de programación para robots EV3 de LEGO
-**4.1 APIs disponibles:
+**4.1 APIs disponibles:**
 
 * API EV3: Es la API oficial de LEGO para programar robots EV3. Proporciona acceso a todas las funcionalidades del robot, como el control de motores, sensores, sonidos y pantalla.
 * API LabVIEW: Permite programar robots EV3 utilizando el lenguaje de programación gráfico LabVIEW.
 * API RobotC: Proporciona una interfaz de programación similar a C para controlar robots EV3.
 * API NXT-G: Permite programar robots EV3 utilizando el lenguaje de programación NXT-G, diseñado para principiantes.
 
-**4.2 Lenguajes de programación compatibles:
+**4.2 Lenguajes de programación compatibles:**
 
 * Python: Se puede usar Python para programar robots EV3 mediante la API EV3-Python.
 * Java: La API EV3-Java permite programar robots EV3 utilizando el lenguaje de programación Java.
@@ -46,22 +46,58 @@ El robot actualmente se encuantra en buen estado sin maltratos significativos en
 
 Para programar un EV3, actualmente los mas populares son:
 
-**LEGO® MINDSTORMS® EV3 Home Edition (LabVIEW)
+**LEGO® MINDSTORMS® EV3 Home Edition (LabVIEW)**
 
-Enfoque: Basado en bloques de funciones que representan operaciones y comandos específicos.
+*Enfoque:* Basado en bloques de funciones que representan operaciones y comandos específicos.
 
-Estructura: Los bloques se conectan mediante cables para representar el flujo de datos y la lógica del programa.
+*Estructura:* Los bloques se conectan mediante cables para representar el flujo de datos y la lógica del programa.
+
+*Funcionamiento:*
+
+* Bloques: Cada bloque tiene una función específica, como leer un sensor, controlar un motor o realizar cálculos matemáticos.
+* Cables: Los cables transportan datos entre los bloques, determinando el orden en que se ejecutan las acciones.
+* Flujo de datos: El programa se ejecuta siguiendo el flujo de datos desde la entrada hasta la salida.
+* Programación gráfica: La interfaz visual facilita la comprensión del programa y la identificación de errores.
+
+*Utilidad:*
+
+* Control preciso: Permite un control preciso del robot y de sus componentes.
+* Programas complejos: Permite crear programas complejos y personalizados para una amplia gama de aplicaciones.
+* Flexibilidad: Ofrece mayor flexibilidad para adaptar el programa a las necesidades específicas del proyecto.
+
+*Funciones:*
+
+* Amplia biblioteca de bloques: Contiene una amplia biblioteca de bloques predefinidos para controlar sensores, motores, la pantalla y otros elementos del robot.
+* Acceso a hardware: Permite acceder y configurar el hardware del robot a un nivel más profundo.
+* Creación de funciones: Permite crear funciones y bloques personalizados para ampliar las capacidades del robot.
+* Depuración avanzada: Ofrece herramientas de depuración avanzadas para identificar y corregir errores en el programa.
+
+**EV3 Classroom App v. 1.5.3:**
+
+*Enfoque:* Basado en Scratch, un software, un entorno y un lenguaje de programación visual. A través de su interfaz en línea o sin conexión, permite a los usuarios crear un algoritmo ensamblando bloques para crear una simulación o una historia interactiva.
+
+*Estructura:* Los bloques se ensamblan como piezas de un rompecabezas para crear secuencias de comandos.
+
+*Funcionamiento:*
+
+* Bloques: Cada bloque representa una acción simple, como mover el robot, reproducir un sonido o mostrar un mensaje en la pantalla.
+* Arrastrar y soltar: Los bloques se arrastran y sueltan en el área de trabajo para crear la secuencia de comandos.
+* Programación visual: La interfaz gráfica facilita la comprensión del programa y la identificación de errores.
+* Interfaz intuitiva: Diseñada para principiantes sin experiencia previa en programación.
+
+*Utilidad:*
+
+* Fácil de usar: Interfaz intuitiva y fácil de usar para principiantes sin experiencia en programación.
+* Aprendizaje guiado: Ofrece una experiencia de aprendizaje guiada con tutoriales y proyectos predefinidos.
+* Programación básica: Permite crear programas básicos para explorar conceptos de robótica y programación.
 
 
-**EV3 Classroom App v. 1.5.3:
+*Funciones:*
 
-Enfoque: Basado en Scratch, un software, un entorno y un lenguaje de programación visual. A través de su interfaz en línea o sin conexión, permite a los usuarios crear un algoritmo ensamblando bloques para crear una simulación o una historia interactiva.
-
-Estructura: Los bloques se ensamblan como piezas de un rompecabezas para crear secuencias de comandos.
-
-
-
-
+* Bloques visuales: Interfaz con bloques visuales que representan acciones y conceptos básicos de programación.
+* Programación por bloques: Arrastrar y soltar bloques para crear la secuencia de comandos del programa.
+* Proyectos predefinidos: Amplia biblioteca de proyectos predefinidos para explorar diferentes aplicaciones de robótica.
+* Interfaz de usuario: Permite crear interfaces gráficas simples para interactuar con el robot.
 
 
 ## 6. Sensores del robot: Identificar los sensores incorporados en los robots y explicar su funcionamiento. Que compatibildiad tienes con otros sensores.
