@@ -72,6 +72,11 @@ Para programar un EV3, actualmente los mas populares son:
 * Creación de funciones: Permite crear funciones y bloques personalizados para ampliar las capacidades del robot.
 * Depuración avanzada: Ofrece herramientas de depuración avanzadas para identificar y corregir errores en el programa.
 
+*Ejemplo:*
+
+![prom1](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/fb79ea86-da05-47c1-9cb5-7270cd996c53)  
+https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/PrimerrMovimiento.lmsp
+
 **EV3 Classroom App v. 1.5.3:**
 
 *Enfoque:* Basado en Scratch, un software, un entorno y un lenguaje de programación visual. A través de su interfaz en línea o sin conexión, permite a los usuarios crear un algoritmo ensamblando bloques para crear una simulación o una historia interactiva.
@@ -98,6 +103,11 @@ Para programar un EV3, actualmente los mas populares son:
 * Programación por bloques: Arrastrar y soltar bloques para crear la secuencia de comandos del programa.
 * Proyectos predefinidos: Amplia biblioteca de proyectos predefinidos para explorar diferentes aplicaciones de robótica.
 * Interfaz de usuario: Permite crear interfaces gráficas simples para interactuar con el robot.
+
+*Ejemplo:*
+
+![prom2](https://github.com/JSDaleman/Robotica-movil-Lab1/assets/68557324/10ed6e31-daeb-4ece-ac56-7d3281a2e42d)  
+https://github.com/JSDaleman/Robotica-movil-Lab1/blob/main/Codigos/Prueba.ev3
 
 
 ## 6. Sensores del robot: Identificar los sensores incorporados en los robots y explicar su funcionamiento. Que compatibildiad tienes con otros sensores.
